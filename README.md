@@ -1,10 +1,10 @@
 # OpenGL_Competition
 An OpenGL project for CG Competition
 
-Includes three scenes:
-Scene 1: A recreation of interstellar docking scene
-Scene 2: Hollow-Face illusion with cookies (model generated using a free photogrammtery software, (3DF Zephyr)[https://www.3dflow.net/3df-zephyr-pro-3d-models-from-photos/])
-Scene 3: Hollow-Face illusion with a face (model generated using a free photogrammtery software, (3DF Zephyr)[https://www.3dflow.net/3df-zephyr-pro-3d-models-from-photos/])
+### Scenes
+**Scene 1**: A recreation of interstellar docking scene
+**Scene 2**: Hollow-Face illusion with cookies (model generated using a free photogrammtery software) (3DF Zephyr)[https://www.3dflow.net/3df-zephyr-pro-3d-models-from-photos/]
+**Scene 3**: Hollow-Face illusion with a face, (model generated using a free photogrammtery software) (3DF Zephyr) [https://www.3dflow.net/3df-zephyr-pro-3d-models-from-photos/]
 
 Scene 1 adopted models:
 The original interstellar scene (here)[https://www.youtube.com/watch?v=c4tPQYNpW9k&t=24].

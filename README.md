@@ -15,7 +15,7 @@ Simple build and run using qt creator.
 
 The original interstellar scene [here](https://www.youtube.com/watch?v=c4tPQYNpW9k&t=24).
 
-Interstellar endurance space station model from [here](https://www.thingiverse.com/thing:558470) by [XXHANSONMAXX](https://www.thingiverse.com/xxhansonmaxx/about).
+Interstellar endurance space station model from [here](https://www.thingiverse.com/thing:558470) by [XXHANSONMAXX](https://www.thingiverse.com/xxhansonmaxx/about). It takes some endurance to load up this mesh (47K triangles).
 
 UFO saucer model object from [here](https://free3d.com/3d-model/ufo-saucer-v1--190141.html) by [printable_models](https://free3d.com/user/printable_models).
 

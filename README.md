@@ -7,7 +7,7 @@ Simple build and run using qt creator.
 ## Scenes
 **Scene 1**: A recreation of interstellar docking scene
 
-![Scene1](https://github.com/YonaBMoreda/OpenGL_Competition/blob/master/Screenshots/interstellar-docking.png | width=48)
+![Scene1](https://github.com/YonaBMoreda/OpenGL_Competition/blob/master/Screenshots/interstellar-docking.png =24x48)
 
 **Scene 2**: Hollow-Face illusion with cookies (model generated using a free photogrammtery software) [3DF Zephyr](https://www.3dflow.net/3df-zephyr-pro-3d-models-from-photos/)
 

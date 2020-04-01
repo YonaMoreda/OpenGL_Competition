@@ -7,15 +7,15 @@ Simple build and run using qt creator.
 ## Scenes
 **Scene 1**: A recreation of interstellar docking scene
 
-![Image of Scene 1](https://github.com/YonaBMoreda/OpenGL_Competition/blob/master/Screenshots/interstellar-docking.png)
+![Image of Scene 1](https://github.com/YonaBMoreda/OpenGL_Competition/blob/master/Screenshots/interstellar-docking.png | width=200)
 
 **Scene 2**: Hollow-Face illusion with cookies (model generated using a free photogrammtery software) [3DF Zephyr](https://www.3dflow.net/3df-zephyr-pro-3d-models-from-photos/)
 
-![Image of Scene 2](https://github.com/YonaBMoreda/OpenGL_Competition/blob/master/Screenshots/Cookies.png)
+![Image of Scene 2](https://github.com/YonaBMoreda/OpenGL_Competition/blob/master/Screenshots/Cookies.png | width=200)
 
 **Scene 3**: Hollow-Face illusion with a face (model generated using a free photogrammtery software) [3DF Zephyr](https://www.3dflow.net/3df-zephyr-pro-3d-models-from-photos/)
 
-![Image of Scene 3](https://github.com/YonaBMoreda/OpenGL_Competition/blob/master/Screenshots/hollow-face%20illusion.png)
+![Image of Scene 3](https://github.com/YonaBMoreda/OpenGL_Competition/blob/master/Screenshots/hollow-face%20illusion.png | width=200)
 
 ### Notes on Scene 1 (Space)
 

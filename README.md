@@ -11,7 +11,11 @@ Simple build and run using qt creator.
 
 **Scene 2**: Hollow-Face illusion with cookies (model generated using a free photogrammtery software) [3DF Zephyr](https://www.3dflow.net/3df-zephyr-pro-3d-models-from-photos/)
 
+![Image of Scene 2](https://github.com/YonaBMoreda/OpenGL_Competition/blob/master/Screenshots/Cookies.png)
+
 **Scene 3**: Hollow-Face illusion with a face (model generated using a free photogrammtery software) [3DF Zephyr](https://www.3dflow.net/3df-zephyr-pro-3d-models-from-photos/)
+
+![Image of Scene 3](https://github.com/YonaBMoreda/OpenGL_Competition/blob/master/Screenshots/hollow-face%20illusion.png)
 
 ### Notes on Scene 1 (Space)
 

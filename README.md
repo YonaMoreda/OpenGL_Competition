@@ -9,7 +9,7 @@ Simple build and run using qt creator.
 
 **Scene 2**: Hollow-Face illusion with cookies (model generated using a free photogrammtery software) [3DF Zephyr](https://www.3dflow.net/3df-zephyr-pro-3d-models-from-photos/)
 
-**Scene 3**: Hollow-Face illusion with a face, (model generated using a free photogrammtery software) [3DF Zephyr](https://www.3dflow.net/3df-zephyr-pro-3d-models-from-photos/)
+**Scene 3**: Hollow-Face illusion with a face (model generated using a free photogrammtery software) [3DF Zephyr](https://www.3dflow.net/3df-zephyr-pro-3d-models-from-photos/)
 
 ### Notes on Scene 1 (Space)
 
@@ -24,4 +24,4 @@ Soundtrack from [here](https://www.youtube.com/watch?v=m3zvVGJrTP8).
 ### Notes on Scene 2 and 3 (Cookies and face)
 Experimenting with photogrammetry models with face culling disabled inspired us to create scenes that demonstrated the [Hollow-Face illusion](https://www.youtube.com/watch?v=BaofyuCXZ_0).
 
-Are the meshes in scene 2 and 3 rotating clockwise or anti-clockwise?
+The illusion shows the meshes to be rotating both clockwise and anti-clockwise.

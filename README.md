@@ -21,6 +21,8 @@ UFO saucer model object from [here](https://free3d.com/3d-model/ufo-saucer-v1--1
 
 Soundtrack from [here](https://www.youtube.com/watch?v=m3zvVGJrTP8).
 
+Planet jupiter texture from [here](http://planetpixelemporium.com/jupiter.html) and Space Milky-way galaxy texture from [here](https://www.solarsystemscope.com/textures/).
+
 ### Notes on Scene 2 and 3 (Cookies and face)
 Experimenting with photogrammetry models with face culling disabled inspired us to create scenes that demonstrated the [Hollow-Face illusion](https://www.youtube.com/watch?v=BaofyuCXZ_0).
 

@@ -3,6 +3,7 @@ An OpenGL project for CG Competition.
 
 ## Instructions
 Simple build and run using qt creator.
+You can use arrow keys to move in the x, y plane.
 
 ## Scenes
 **Scene 1**: A recreation of interstellar docking scene

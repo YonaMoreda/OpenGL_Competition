@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>models/sphere.obj</file>
+        <file>shaders/fragshader_phong.glsl</file>
+        <file>shaders/vertshader_phong.glsl</file>
+        <file>textures/yona_diff.jpg</file>
+        <file>models/face.obj</file>
+        <file>models/cookie.obj</file>
+        <file>textures/cookie_diff.jpg</file>
+        <file>textures/statue_diff.png</file>
+        <file>audio/music.mp3</file>
+        <file>models/endurance.obj</file>
+        <file>textures/planet_diff.jpg</file>
+        <file>textures/UFO_diff.jpg</file>
+        <file>textures/milkyWay_diff.jpg</file>
+        <file>models/UFO.obj</file>
+    </qresource>
+</RCC>
